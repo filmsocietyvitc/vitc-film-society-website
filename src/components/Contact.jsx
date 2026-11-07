@@ -130,29 +130,19 @@ export default function Contact() {
               >
                 <option value="">Choose a domain</option>
 
-                <option value="Pre-Production & Writing">
-                  Pre-Production & Writing
+                <option value="Direction & Artistic">
+                  Direction & Artistic
                 </option>
 
-                <option value="Cinematography & Lighting">
-                  Cinematography & Lighting
-                </option>
+                <option value="Cinematography">Cinematography</option>
 
-                <option value="Direction & Production">
-                  Direction & Production
-                </option>
+                <option value="Editing">Editing</option>
 
-                <option value="Post-Production">
-                  Post-Production
-                </option>
+                <option value="Content">Content</option>
 
-                <option value="Film Criticism & Analysis">
-                  Film Criticism & Analysis
-                </option>
+                <option value="Creative">Creative</option>
 
-                <option value="Media, PR & Events">
-                  Media, PR & Events
-                </option>
+                <option value="Event Management">Event Management</option>
               </select>
             </div>
 
