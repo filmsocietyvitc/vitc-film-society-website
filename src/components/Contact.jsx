@@ -129,19 +129,13 @@ export default function Contact() {
                 required
               >
                 <option value="">Choose a domain</option>
-
                 <option value="Direction & Artistic">
                   Direction & Artistic
                 </option>
-
                 <option value="Cinematography">Cinematography</option>
-
                 <option value="Editing">Editing</option>
-
                 <option value="Content">Content</option>
-
                 <option value="Creative">Creative</option>
-
                 <option value="Event Management">Event Management</option>
               </select>
             </div>
