@@ -14,6 +14,13 @@ export default function Nav() {
           <a href="#events">Events</a>
           <a href="#blog">Cinephile</a>
           <a href="#team">Team</a>
+          <a
+            href="https://cinemark-filmsociety.pages.dev/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Cinemark
+          </a>
         </div>
         <a href="#join" className="nav-cta">Join the Crew</a>
       </div>
